@@ -1,0 +1,6 @@
+{
+  "description": "Foxel rmShield: a tool.call hook that holds risky Bash commands, and a pane that shows what they would change.",
+  "modules": [
+    "./foxel-rmshield.mjs"
+  ]
+}
