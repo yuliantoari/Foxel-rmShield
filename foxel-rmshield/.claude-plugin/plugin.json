@@ -1,0 +1,14 @@
+{
+  "name": "foxel-rmshield",
+  "version": "0.1.0",
+  "description": "Foxel rmShield: holds risky shell commands (rm -rf, git reset --hard, git clean, force push, migrations) and shows what they would change, with Delete and Cancel buttons.",
+  "author": {
+    "name": "Foxel"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "mods",
+    "safety",
+    "git"
+  ]
+}
